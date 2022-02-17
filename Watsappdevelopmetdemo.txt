@@ -1,3 +1,4 @@
 Created a chat app
 added audio, video share feature
 added last seen feature
+Added status feature for users
